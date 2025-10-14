@@ -1,7 +1,7 @@
 [comicvine]
 api_key = YOUR_COMICVINE_API_KEY
 user_agent = Spidey2Mylar/1.0 (your-email-or-site)
-character_ids = 4005-1443,4005-79420,4005-162256
+character_ids = 4005-1443
 
 [mylar]
 base_url = http://localhost:8090
@@ -12,4 +12,3 @@ dry_run = false
 log_level = INFO
 rate_delay = 1.1
 request_timeout = 30
-max_issue_pages_per_run = 180
